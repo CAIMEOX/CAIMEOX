@@ -7,8 +7,8 @@
 
 - 🌱 Learning Algebraic Topology and Category Theory
 - 🤔 Reading *Group Theory in a Nutshell for Physicists* and *Algebraic Topology from a Homotopical Viewpoint*
-- 📝 Regularly write articles about Classic Mechanics and Math
-- 🔭 Working on **Voxel Geometry**
+- 📝 Regularly write articles about Functional Programming and Math
+- 🔭 Working on **Voxel Geometry** and **Quantum Simulator**
 - ⚡ Fun fact **I'm furry**
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAIMEOX&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
 
@@ -29,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="tensorflow" width="40" height="40"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
@@ -39,5 +41,5 @@
 - Computer Science
 - Abstract Algebra
 - Category theory
-- Quantum physics
+- Quantum physics and Quantum computing
 - Minecraft
