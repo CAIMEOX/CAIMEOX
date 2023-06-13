@@ -3,11 +3,13 @@
 <!--
 **CAIMEOX/CAIMEOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+$$
+\text{Life} = \int_\text{birth}^{\text{death}} \text{study} \\ dt
+$$
 
 - 🌱 Learning Algebraic Topology and Category Theory
 - 🤔 Reading *Group Theory in a Nutshell for Physicists* and *Algebraic Topology from a Homotopical Viewpoint*
-- 📝 Regularly write articles about Functional Programming and Math
+- 📝 Regularly write articles about Quantum Computing and Math
 - 🔭 Working on **Voxel Geometry** and **Quantum Simulator**
 - ⚡ Fun fact **I'm furry**
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAIMEOX&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
