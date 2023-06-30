@@ -1,5 +1,5 @@
 # CAIMEO
-### A senior high school student interested in math and computer science.
+### A student interested in math and computer science.
 <!--
 **CAIMEOX/CAIMEOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,7 +7,7 @@ $$
 \text{Life} = \int_\text{birth}^{\text{death}} \text{study} \\ dt
 $$
 
-- 🌱 Learning Algebraic Topology and Category Theory
+- 🌱 Learning Algebraic Topology and Type Theory
 - 🤔 Reading *Group Theory in a Nutshell for Physicists* and *Algebraic Topology from a Homotopical Viewpoint*
 - 📝 Regularly write articles about Quantum Computing and Math
 - 🔭 Working on **Voxel Geometry** and **Quantum Simulator**
@@ -43,5 +43,9 @@ $$
 - Computer Science
 - Abstract Algebra
 - Category theory
+- Type Theory
 - Quantum physics and Quantum computing
 - Minecraft
+
+### Visit Count (Since 30 June 2023)
+![](https://count.getloli.com/get/@caimeox?theme=moebooru)
