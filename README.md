@@ -36,6 +36,7 @@ $$
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
+
 ### Interests
 - Arch Linux
 - Classic Music
@@ -47,5 +48,6 @@ $$
 - Quantum physics and Quantum computing
 - Minecraft
 
-### Visit Count (Since 30 June 2023)
-![](https://count.getloli.com/get/@caimeox?theme=moebooru)
+### Visit Count (Since 6 July 2023)
+<img src="https://count.getloli.com/get/@caimeox?theme=moebooru" alt="caimeox" />
+
