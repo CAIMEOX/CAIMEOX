@@ -48,6 +48,7 @@ $$
 - Quantum physics and Quantum computing
 - Minecraft
 
+<!--
 ### Visit Count (Since 6 July 2023)
 <img src="https://count.getloli.com/get/@caimeox?theme=moebooru" alt="caimeox" />
-
+!-->
