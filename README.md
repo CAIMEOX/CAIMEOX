@@ -31,13 +31,15 @@ $$
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="tensorflow" width="40" height="40"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="tensorflow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
 
 ### Interests
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caimeox&theme=tokyonight" align="right"/>
+
 - Arch Linux
 - Classic Music
 - Machine learning 
@@ -51,4 +53,4 @@ $$
 <!--
 ### Visit Count (Since 6 July 2023)
 <img src="https://count.getloli.com/get/@caimeox?theme=moebooru" alt="caimeox" />
-!-->
+--!>
