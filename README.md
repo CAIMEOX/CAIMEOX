@@ -38,7 +38,7 @@ $$
 
 ### Interests
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caimeox&theme=tokyonight" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caimeox&theme=tokyonight&layout=compact" align="right"/>
 
 - Arch Linux
 - Classic Music
