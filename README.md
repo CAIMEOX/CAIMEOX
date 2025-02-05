@@ -6,9 +6,9 @@ $$
 $$
 
 - 🌱 Learning Programming Language Theory and Type Theory
-- 🤔 Reading *Type Theory and Formal Proof* and *Homotopy Type Theory*
-- 📝 Regularly write notes and blogs ([The Rabbit Hole](https://caimeo.online))
-- 🔭 Working on **Json Schema Lean Implementation**, **Moonbit Core Library** and **Command Lisp**
+- 🤔 Researching on Programming Languages Theory
+- 📝 Regularly write notes and blogs ([The Rabbit Hole](https://caimeo.world))
+- 🔭 Working on **QuickCheck**, **Moonbit Core** and **Morpheus Compiler**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAIMEOX&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
 
