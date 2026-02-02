@@ -8,9 +8,7 @@ $$
 - 🌱 Learning Programming Language Theory and Type Theory
 - 🤔 Researching on Programming Languages Theory
 - 📝 Regularly write notes and blogs ([The Rabbit Hole](https://caimeo.world))
-- 🔭 Working on **QuickCheck**, **Moonbit Core** and **Morpheus Compiler**
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CAIMEOX&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
+- 🔭 Working on **QuickCheck**, **Proof Assistant** and **Morpheus Compiler**
 
 ### Languages and tools
 <div><img src="icons/agda-original.svg" title="agda" alt="agda" width="40" height="40"/>&nbsp;
@@ -36,8 +34,6 @@ $$
 </div>
 
 ### Interests
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caimeox&theme=tokyonight&layout=compact" align="right"/>
 
 - Abstract Algebra
 - Arch Linux and NixOS
