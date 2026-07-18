@@ -5,13 +5,14 @@ $$
 \text{Life} = \int_\text{birth}^{\text{death}} \text{study} \ dt
 $$
 
-- 🌱 Learning Programming Language Theory and Type Theory
-- 🤔 Researching on Programming Languages Theory
-- 📝 Regularly write notes and blogs ([The Rabbit Hole](https://caimeo.world))
-- 🔭 Working on **QuickCheck**, **Proof Assistant** and **Morpheus Compiler**
+- 🌱 Learning Cohesive Homotopy Type Theory
+- 🤔 Researching Programming Languages Theory
+- 📝 Regularly write notes and blogs ([The Rabbit Hole](https://caimeo.space))
+- 🔭 Working on **QuickCheck**, **Proof Assistant** and **MoonBit Toolchains**
 
 ### Languages and tools
 <div><img src="icons/agda-original.svg" title="agda" alt="agda" width="40" height="40"/>&nbsp;
+<img src="icons/moonbit.svg" title="moonbit" alt="moonbit" width="40" height="40"/>&nbsp;
 <img src="icons/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
 <img src="icons/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
 <img src="icons/haskell-original.svg" title="haskell" alt="haskell" width="40" height="40"/>&nbsp;
@@ -35,13 +36,14 @@ $$
 
 ### Interests
 
-- Abstract Algebra
-- Arch Linux and NixOS
-- Category theory
-- Classic Music
-- Computer Science
-- Minecraft
-- Programming Language Theory
-- Quantum physics and Quantum computing
-- String Theory
+- Algebra
+- MacOS ~~Arch Linux and NixOS~~
+- Category Theory and Logic
 - Type Theory
+- Theoretical Computer Science
+- Programming Language Theory
+- Quantum Physics and Quantum Computing
+- String Theory
+- Classical Music
+- Minecraft
+- Puzzling Games
