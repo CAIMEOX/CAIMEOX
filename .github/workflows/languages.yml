@@ -1,0 +1,36 @@
+
+name: Update Language Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate language statistics
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.STATS_PAT }}
+          fail_on_error: true
+
+      - name: Commit statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update language statistics"
+            git push
+          fi

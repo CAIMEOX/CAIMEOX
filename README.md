@@ -36,6 +36,8 @@ $$
 
 ### Interests
 
+<img src="./profile/top-langs.svg" align="right"/>
+
 - Algebra
 - MacOS ~~Arch Linux and NixOS~~
 - Category Theory and Logic
